@@ -4,7 +4,7 @@ function AboutProduct({params}:{
     params:{productId:string}
 }) {
   return (
-    <div>AboutProduct {params.productId}</div>
+    <div className='bg-red-400'>AboutProduct {params.productId}</div>
   )
 }
 
