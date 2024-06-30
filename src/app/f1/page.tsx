@@ -6,6 +6,7 @@ function F1() {
     <div>
       F1
       <Link href={"/f1/f2"}>to F2</Link>
+      <Link href={"/f1/f3"}>to F3</Link>
     </div>
   );
 }
